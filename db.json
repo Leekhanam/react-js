@@ -1,0 +1,212 @@
+{
+  "categories": [
+    {
+      "id": "5fxlew3i9",
+      "name": "SUPERSTART",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FGiay_Superstar_khong_day_Mau_djen_FV3018_01_standard.jpg?alt=media&token=6f52b587-220c-4278-8b03-8cd2ddbb92ca",
+      "desc": "",
+      "text": "<p>Giày Superstart</p><p>&nbsp;</p>"
+    },
+    {
+      "id": "92ev0ebu5",
+      "name": "ULTRABOOST",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FGiay_UltraBoost_20_Mau_djen_EG0691.jpg?alt=media&token=8bf3ddf8-2e11-4045-85e1-4ed418d68cd2",
+      "text": "<p>Giày Ultraboost</p>"
+    },
+    {
+      "id": "yespud0sy",
+      "name": "STAN SMITH",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2Fgi%C3%A0y-stan-smith.jpg?alt=media&token=a2fb24b9-3e02-4f19-bbd6-e11948954c4b",
+      "text": "<p>STAN SMITH</p>"
+    },
+    {
+      "id": "xwr030oz2",
+      "name": "VinFast",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FGiay_UltraBoost_20_Mau_trang_EG5177_01_standard.jpg?alt=media&token=b3b07718-2e1e-4ab7-80ff-d8cbcaaa94e1",
+      "text": "<p>VinFast</p>"
+    }
+  ],
+  "products": [
+    {
+      "id": "7ulb7ow2a",
+      "name": "GIÀY SUPERSTAR KHÔNG DÂY",
+      "price": "2400000",
+      "price_sale": "2200000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FGiay_Superstar_khong_day_Mau_djen_FV3018_01_standard.jpg?alt=media&token=c9c67a81-b302-4771-9618-9245e60f3cf5",
+      "category": "Superstart",
+      "status": "Còn hàng",
+      "desc": "",
+      "smallDes": "<p>GIÀY TẬP ADIDAS SUPERSTAR KHÔNG DÂY MANG CẢM HỨNG HIP HOP.</p>",
+      "bigDes": "<p>Đôi giày tập adidas Superstar xuất thân là một đôi giày bóng rổ từ năm 1970. Đến đầu thập niên 80, đôi giày này đã trở thành lựa chọn của các nghệ sĩ tiên phong trong văn hóa hip hop Mỹ. Phiên bản giày adidas Superstar không dây này tôn vinh hành trình cuồng nhiệt ấy. Thiết kế không dây giúp bạn dễ dàng xỏ giày. Lưỡi gà cỡ lớn cho bạn thỏa sức sáng tạo với graffiti. Lưỡi gà bên phải mang dòng chữ \"From the courts\" và bên trái là \"To the streets\".</p>"
+    },
+    {
+      "id": "olhamgjxo",
+      "name": "GIÀY SLIP-ON SUPERSTAR",
+      "price": "2300000",
+      "price_sale": "2300000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FGiay_Superstar_khong_day_Mau_trang_FV2803_01_standard.jpg?alt=media&token=b606d08a-819f-4c07-a1b2-1a0ceead9d9a",
+      "category": "STAN SMITH",
+      "status": "Còn hàng",
+      "smallDes": "<p>ĐÔI GIÀY THANH THOÁT VỚI THIẾT KẾ SLIP-ON.</p>",
+      "bigDes": "<p>Vội ra đường mà không có nhiều thời gian? Hãy xỏ chân vào đôi giày slip-on adidas Superstar này và dễ dàng tạo phong cách thanh lịch vào phút chót. Thiết kế không dây trên thân giày kết hợp đai co giãn đậm chất thể thao ôm sát bàn chân cho độ vừa vặn thoải mái. Dù bạn đi đâu, dù phối với quần ống loe hay váy ngắn, đôi giày cũng sẽ giúp bạn nổi bật với phong cách hiện đại.</p>"
+    },
+    {
+      "id": "51eqet822",
+      "name": "GIÀY SUPERSTAR",
+      "price": "2300000",
+      "price_sale": "23000000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FGiay_Superstar_khong_day_Mau_xam_FV2804_01_standard.jpg?alt=media&token=f187c56a-df00-4e38-9fb7-816842eb3502",
+      "category": "Superstart",
+      "status": "Còn hàng",
+      "smallDes": "<p>ĐÔI GIÀY ADIDAS SUPERSTAR TÔN VINH CÁC HUYỀN THOẠI GIÀY BÓNG RỔ KHÁC.</p>",
+      "bigDes": "<p>Đừng bao giờ quên đi thân thế của mình. Có thể coi là đôi giày tập adidas biểu tượng nhất mọi thời đại, đôi giày adidas Superstar đã nhiều lần tái sinh trong suốt 50 năm qua. Các vận động viên nhà nghề tuyên thệ cùng đôi giày này. Các huyền thoại hip hop viết nhạc về đôi giày này. Và ngày hôm nay, đôi giày này vẫn đang hiện diện. Phiên bản này tôn vinh bề dày lịch sử của adidas trong bộ môn bóng rổ với các màu sắc mượn cảm hứng từ cách phối màu nguyên bản của năm đôi giày bóng rổ adidas huyền thoại. Cuộc chơi vẫn còn dài.</p>"
+    },
+    {
+      "id": "glyu9uhcp",
+      "name": "GIÀY STAN SMITH",
+      "price": "2300000",
+      "price_sale": "0",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2Fgi%C3%A0y-stan-smith.jpg?alt=media&token=0e1bf6e6-aee7-4998-b2d6-c294b2744ae1",
+      "category": "STAN SMITH",
+      "status": "Còn hàng",
+      "desc": "",
+      "smallDes": "<p>PHIÊN BẢN CHÍNH HIỆU CỦA BIỂU TƯỢNG GIÀY QUẦN VỢT KINH ĐIỂN NĂM 1972.</p>",
+      "bigDes": "<p>Trước đây, Stan Smith từng là ngôi sao lớn của làng quần vợt. Từ đó đến nay, đôi giày mang tên ông luôn thắng đậm trên đường phố. Từ trên xuống dưới, đôi giày này giữ đúng phong cách thiết yếu theo nguyên bản năm 1972 với thiết kế bằng da tối giản và đường nét thanh thoát vốn đã trở thành đặc trưng của dòng giày này.</p>"
+    },
+    {
+      "id": "uhryv72gr",
+      "name": "GIÀY STAN SMITH",
+      "price": "2300000",
+      "price_sale": "2200000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FGiay_Stan_Smith_Mau_trang_M20325_01_standard.jpg?alt=media&token=c80458e6-73dd-4ee6-bb9a-4515ea13369f",
+      "category": "STAN SMITH",
+      "status": "Còn hàng",
+      "desc": "",
+      "smallDes": "<p>GIÀY STAN SMITH CAO CẤP VỚI THÂN GIÀY BẰNG VẢI DỆT JACQUARD IN HÌNH RỒNG ĐẦY SẮC MÀU LỄ HỘI.</p>",
+      "bigDes": "<p>Các truyền thống lâu đời xứng đáng được tôn vinh cùng nhau. Vốn là biểu tượng rất được ưa chuộng của adidas, kiểu dáng kinh điển của đôi giày Stan Smith đóng vai trò là phông nền văn hóa hoàn hảo. Lấy cảm hứng từ Lễ hội Thuyền Rồng, phiên bản nâng cấp sang trọng này mang họa tiết graphic cầu kỳ với hình ảnh truyền thống của Trung Quốc. 3 Sọc đục lỗ trên thân giày bằng vải dệt jacquard tôn vinh di sản adidas. Hãy xỏ chân vào giày và bắt đầu lễ hội!</p>"
+    },
+    {
+      "id": "pse51bve5",
+      "name": "ULTRABOOST DNA X DISNEY",
+      "price": "4200000",
+      "price_sale": "4200000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FGiay_Ultraboost_DNA_x_Disney_Mau_djen_FV6050_01_standard.jpg?alt=media&token=ea941152-4da5-4886-91e1-4fed6af1038b",
+      "category": "ULTRABOOST",
+      "status": "Còn hàng",
+      "desc": "",
+      "smallDes": "<p>GIÀY CHẠY BỘ ĐÀN HỒI VỚI HỌA TIẾT GOOFY CỦA DISNEY.</p>",
+      "bigDes": "<p>Cùng Goofy của Disney học các bộ môn thể thao mới với đôi giày chạy bộ adidas Ultraboost này. Họa tiết graphic trên thân giày bằng vải dệt hình chú chó hoạt hình đáng yêu đang tập karate, bóng chày, leo núi, trượt ván và lướt sóng. Lớp đệm đàn hồi hoàn trả năng lượng trên từng sải bước tạo cảm giác như có thể chạy mãi mãi.</p>"
+    },
+    {
+      "id": "apz9h8w6p",
+      "name": "GIÀY ULTRABOOST 20",
+      "price": "4200000",
+      "price_sale": "4200000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FGiay_UltraBoost_20_Mau_trang_EG5177_01_standard.jpg?alt=media&token=d37f1afa-a831-46ac-9115-5a20babb8f1a",
+      "category": "ULTRABOOST",
+      "status": "Còn hàng",
+      "desc": "",
+      "smallDes": "<p>GIÀY CHẠY BỘ HIỆU NĂNG CAO VỚI LỚP ĐỆM HOÀN TRẢ NĂNG LƯỢNG</p>",
+      "bigDes": "<p>Mỗi buổi chạy là một chuyến phiêu lưu, một cơ hội để bạn khám phá chính bản thân mình. Đôi giày adidas Ultraboost 20 này sẵn sàng đón nhận thử thách nhờ lớp đệm đàn hồi và thân giày ôm chân bằng vải dệt kim làm từ chất liệu tái chế. Vậy nên hãy chọn chặng đường, chọn cuộc chơi cho chính mình. Chọn nỗ lực hết sức cho buổi chạy ngày hôm nay.</p>"
+    },
+    {
+      "id": "ou1wi4o7b",
+      "name": "ULTRABOOST 20",
+      "price": "4200000",
+      "price_sale": "4200000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FULTRABOOST_DNA_x_JUVE_Mau_djen_FZ3624_01_standard.jpg?alt=media&token=19999a7e-e3dd-4091-8982-a16950e461a3",
+      "category": "ULTRABOOST",
+      "status": "Còn hàng",
+      "desc": "",
+      "smallDes": "<p>GIÀY CHẠY BỘ HIỆU NĂNG CAO VỚI LỚP ĐỆM HOÀN TRẢ NĂNG LƯỢNG.</p><p>Mỗi buổi chạy là một chuyến phiêu lưu, một cơ hội để bạn khám phá chính bản thân mình. Đôi giày adidas Ultraboost 20 này sẵn sàng đón nhận thử thách nhờ lớp đệm đàn hồi và thân giày ôm chân bằng vải dệt kim làm từ chất liệu tái chế. Vậy nên hãy chọn chặng đường, chọn cuộc chơi cho chính mình. Chọn nỗ lực hết sức cho buổi chạy ngày hôm nay.</p>",
+      "bigDes": "<p><strong>THÔNG SỐ</strong></p><p>&nbsp;</p><ul><li>Ôm sát, vừa vặn như đi tất</li><li>Có dây buộc</li><li>Thân giày bằng vải dệt công nghệ adidas Primeknit</li><li>Công nghệ Tailored Fibre Placement nâng đỡ phần giữa bàn chân</li><li>Giày chạy trợ lực, thích ứng theo chân người đi</li><li>Đế giữa công nghệ Boost đàn hồi</li><li>Trọng lượng: 310 gram</li><li>Chênh lệch độ cao đế giữa: 10 mm (gót giày 22 mm / mũi giày 12 mm)</li><li>Công nghệ Torsion System tạo độ ổn định</li><li>Màu sản phẩm: Cloud White / Core Black / Signal Pink</li><li>Mã sản phẩm: EG5177</li></ul>"
+    }
+  ],
+  "posts": [
+    {
+      "id": "g3dvm4wgg",
+      "title": "Bão sale",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FAPLTK015-1-480x635.jpg?alt=media&token=34274cf8-f374-47ec-873e-c325e1762081",
+      "catepost": "Tin hay nổi bật",
+      "newTime": "12:08:20",
+      "content": "<h3><strong>3. Các trò chơi Minigame:</strong></h3><ul><li>Đấu trường Shopee: Không có.</li><li>Lật hình rinh quà: Trò chơi sắp ra mắt.</li><li>Lắc siêu xu: 4 trận mỗi ngày từ 01/08 – 07/08 và 8 trận trong ngày 08/08.</li></ul><h3><strong>4. Lịch chi tiết mỗi ngày:</strong></h3><ul><li><strong>Ngày 01/08</strong>: Ngày hội Freeship</li><li><strong>Ngày 02/08</strong>: Khuyến mãi ngành Thời Trang</li><li><strong>Ngày 03/08</strong>: khuyến mãi Tã/ Bỉm</li><li><strong>Ngày 04/08</strong>: khuyến mãi ngành Nhà Cửa Đời Sống</li><li><strong>Ngày 05/08</strong>: Khuyến mãi ngành Điện thoại – Phụ kiện – Điện tử công nghệ</li><li><strong>Ngày 06/08</strong>: Khuyến mãi Son môi</li><li><strong>Ngày 07/08</strong>: Ngày hội Flash Sale</li><li><strong>Ngày 08/08</strong>: Ngày Siêu Sale bùng nổ</li></ul><h3>5. Mã giảm giá Shopee</h3><p>Tất nhiên trong mỗi đợt Sale của Shopee thì không thể thiếu được các voucher giảm giá rồi. Và hình ảnh dưới đây là 1 bật mí nho nhỏ cho các bạn trong ngày 01/08 mở màn nhé!</p><figure class=\"image\"><img src=\"https://magiamgiashopee.vn/wp-content/uploads/2019/07/m%C3%A3-gi%E1%BA%A3m-gi%C3%A1-shopee-th%C3%A1ng-8.png.webp\" alt=\"mã giảm giá shopee tháng 8\" srcset=\"https://magiamgiashopee.vn/wp-content/uploads/2019/07/mã-giảm-giá-shopee-tháng-8.png.webp 956w, https://magiamgiashopee.vn/wp-content/uploads/2019/07/mã-giảm-giá-shopee-tháng-8-300x196.png.webp 300w, https://magiamgiashopee.vn/wp-content/uploads/2019/07/mã-giảm-giá-shopee-tháng-8-768x503.png.webp 768w, https://magiamgiashopee.vn/wp-content/uploads/2019/07/mã-giảm-giá-shopee-tháng-8-810x530.png.webp 810w\" sizes=\"100vw\" width=\"956\"></figure>"
+    },
+    {
+      "id": "nuy4xx7d5",
+      "title": "Tin ngày 11/8/2020",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2FAPLCN008-3-480x635.jpg?alt=media&token=84a8e0de-a1f0-4936-93fd-2a05fd773baf",
+      "catepost": "Member Vip",
+      "newTime": "12:08:20",
+      "content": "<h2>NEM Fashion Sale Up To 70% OFF, Mua 1 Tặng 1</h2><p>Đăng bởi</p><p><a href=\"https://vuakhuyenmai.vn/author/emily/\"><strong>Emily</strong></a></p><p>15196</p><figure class=\"image\"><img src=\"https://vuakhuyenmai.vn/wp-content/uploads/2020/07/nem-khuyen-mai-anh-bia-28-7-2020-696x365.jpg\" alt=\"Nem khuyến mãi ảnh bìa 28-7-2020\" srcset=\"https://vuakhuyenmai.vn/wp-content/uploads/2020/07/nem-khuyen-mai-anh-bia-28-7-2020-696x365.jpg 696w, https://vuakhuyenmai.vn/wp-content/uploads/2020/07/nem-khuyen-mai-anh-bia-28-7-2020-300x157.jpg 300w, https://vuakhuyenmai.vn/wp-content/uploads/2020/07/nem-khuyen-mai-anh-bia-28-7-2020-768x402.jpg 768w, https://vuakhuyenmai.vn/wp-content/uploads/2020/07/nem-khuyen-mai-anh-bia-28-7-2020.jpg 800w\" sizes=\"100vw\" width=\"696\"></figure><figure class=\"image\"><img src=\"https://vuakhuyenmai.vn/wp-content/uploads/2020/07/Pierre-Cardin-Banner-15-7-2020.jpg\" alt=\"Pierre Cardin Sale Banner 15-7-2020\"></figure><figure class=\"image\"><img src=\"https://vuakhuyenmai.vn/wp-content/uploads/2020/06/Mua-Ngay.jpg\" alt=\"Nút Mua Ngay - Vua Khuyến Mãi\"></figure><ul><li><strong>0SHARES</strong></li><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li><li>&nbsp;</li></ul><h4>Các khuyến mãi mới nhất của Thời Trang NEM&nbsp;sẽ luôn được cập nhật tại đây! Hãy theo dõi bài viết này để không bỏ sót một khuyến mãi hot nào</h4><p><i>Đừng quên xem thêm thông tin về các khuyến mãi hot từ các thương hiệu thời trang khác như </i><a href=\"https://vuakhuyenmai.vn/thoi-trang-cong-so-chic-land-giam-gia/\"><i>Chicland</i></a><i>, </i><a href=\"https://vuakhuyenmai.vn/thoi-trang-format-sale/\"><i>Format</i></a><i>, </i><a href=\"https://vuakhuyenmai.vn/thoi-trang-elise-sale/\"><i>Elise</i></a><i>, </i><a href=\"https://vuakhuyenmai.vn/yody-fashion-sale/\"><i>Yody</i></a><i>, </i><a href=\"https://vuakhuyenmai.vn/zara-sale/\"><i>Zara</i></a><i>, </i><a href=\"https://vuakhuyenmai.vn/mango-viet-nam-khuyen-mai/\"><i>Mango</i></a><i>, </i><a href=\"https://vuakhuyenmai.vn/hm-sale/\"><i>H&amp;M</i></a><i>, và </i><a href=\"https://vuakhuyenmai.vn/ivy-moda-sale/\"><i>Ivy Moda</i></a><i>.</i></p><p><strong>70%</strong></p><p><strong>OFF</strong></p><p>ƯU ĐÃI</p><h3>Săn sale đẹp trọn mùa du lịch với khuyến mãi đến 70% các sản phẩm tại Nem Fashion</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-0\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>50%</strong></p><p><strong>OFF</strong></p><p>ƯU ĐÃI</p><h3>Tất cả sản phẩm Nemlife đều đang được giảm giá đến 50% nhanh chân ghé ngay bạn nhé</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-1\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>35%</strong></p><p><strong>OFF</strong></p><p>ƯU ĐÃI</p><h3>Clearance Sale khuyến mãi 35%, mua 2 tặng 1 toàn bộ sản phẩm mới về tại Nem</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-2\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>3</strong></p><p><strong>TẶNG-1</strong></p><p>MÃ</p><h3>Mua 3 tặng 1 các sản phẩm của BST Nemlife tại mã giảm giá này</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-3\"><strong>LẤY MÃ</strong></a></p><p><strong>699K</strong></p><p>&nbsp;</p><p>ƯU ĐÃI</p><h3>Ưu đãi khổng lồ bùng nổ combo 2 sản phẩm từ 699K khi mua hàng tại Nem</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-4\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>199K</strong></p><p>&nbsp;</p><p>ƯU ĐÃI</p><h3>Chỉ 199K sở hữu ngay những sản phẩm áo phông siêu chất chỉ có tại Nem trong hè này</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-5\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>2</strong></p><p><strong>TẶNG-1</strong></p><p>MÃ</p><h3>Nhập mã giảm giá nhận ưu đãi mua 2 tặng 1 cho các sản phẩm thời trang</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-6\"><strong>LẤY MÃ</strong></a></p><p><strong>50%</strong></p><p><strong>OFF</strong></p><p>ƯU ĐÃI</p><h3>Khuyến mãi đặc biệt giảm giá 50% cho các hàng Luxury Limited</h3><p>Điều kiện</p><p>Khách đăng</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-7\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>1</strong></p><p><strong>TẶNG-1</strong></p><p>ƯU ĐÃI</p><h3>Mua 1 tặng 1 với một số sản phẩm trong chương trình sale mùa du lịch tại Nem</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-8\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>-78%</strong></p><p>&nbsp;</p><p>ƯU ĐÃI</p><h3>Cơ hội sở hữu hàng ngàn sản phẩm mới nhất cùng những xu hướng thời trang thịnh hành đón hè đã tới khuyến mãi 78%</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-9\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>60%</strong></p><p><strong>OFF</strong></p><p>ƯU ĐÃI</p><h3>Chào tháng 6, Nem khuyến mãi đến 60% các sản phẩm trên toàn bộ hệ thống cửa hàng giá chỉ từ 199K</h3><p>Điều kiện</p><p>Khuyến mãi mới</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-10\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>1</strong></p><p><strong>TẶNG-1</strong></p><p>MÃ</p><h3>Mua 1 tặng 1 với các sản phẩm đã Fix giá tại Nem khi nhập mã giảm giá</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-11\"><strong>LẤY MÃ</strong></a></p><p><strong>699K</strong></p><p>&nbsp;</p><p>ƯU ĐÃI</p><h3>Bùng nổ Combo khổng lồ cho 2 sản phẩm giá chỉ từ 699K tại hệ thống showroom Nem toàn quốc</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-12\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>200K</strong></p><p>&nbsp;</p><p>MÃ</p><h3>Tham gia chương trình sale hè của Nem nhận ngay coupon 200K cho hóa đơn từ 1 triệu tại mã giảm giá này</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-13\"><strong>LẤY MÃ</strong></a></p><p>KHUYẾN MÃI HOT!</p><h3><a href=\"https://vuakhuyenmai.vn/pierre-cardin-paris-viet-nam-sale/\"><strong>Pierre Cardin Paris Sale Up to 74%</strong></a></h3><h3><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/\"><strong>NEM Fashion Sale Up To 70% OFF, Mua 1 Tặng 1</strong></a></h3><h3><a href=\"https://vuakhuyenmai.vn/adidas-sale/\"><strong>Adidas Sale Up To 70% OFF</strong></a></h3><h3><a href=\"https://vuakhuyenmai.vn/mays-house-designer-sale/\"><strong>May’s House Sale Up To 88%</strong></a></h3><p>&nbsp;</p><p><strong>199K</strong></p><p><strong>ÁO-PHÔNG</strong></p><p>ƯU ĐÃI</p><h3>Đến Nem ngay để có cơ hội sở hữu áo phông cao cấp với mức giá cực sốc chỉ 199K</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-14\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>-10%</strong></p><p>&nbsp;</p><p>ƯU ĐÃI</p><h3>Nhận ưu đãi thêm 10% cho tất cả hóa đơn 2 triệu đồng khi mua hàng tại hệ thống showroom Nem trên toàn quốc</h3><p>Điều kiện</p><p>&nbsp;</p><p><a href=\"https://vuakhuyenmai.vn/thoi-trang-nem-sale/#coupon-15\"><strong>XEM ƯU ĐÃI</strong></a></p><p><strong>-50%</strong></p><p>&nbsp;</p><p>MÃ</p><h3>Khuyến mãi 50% cho loạt sản phẩm chào hè tại Nem Online giá chỉ từ 390K khi nhập mã giảm giá</h3>"
+    },
+    {
+      "id": "odzokwgzg",
+      "title": "Bí quyết chăm sóc giày ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2Fgi%C3%A0y-stan-smith.jpg?alt=media&token=3bc72c43-6970-47de-a910-9e8086e5ea99",
+      "catepost": "301qx632a",
+      "newTime": "13:08:20",
+      "content": "<figure class=\"image\"><img src=\"http://xclean.vn/wp-content/uploads/2019/12/ch%C4%83m-s%C3%B3c-gi%C3%A0y-da-trong-m%C3%B9a-m%C6%B0a-1024x685.jpg\" alt=\"\" srcset=\"http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-1024x685.jpg 1024w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-300x201.jpg 300w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-768x514.jpg 768w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa.jpg 1045w\" sizes=\"100vw\" width=\"1024\"></figure><p>Mùa mưa dai dẳng kéo dài sẽ làm bạn chán nản không dám mang giày da bởi vì sợ dơ, ẩm mốc và bốc mùi. Đễ vẫn tự tin diện giày da trong mùa mưa cũng như bảo quản chúng để sử dụng lâu nhất. Hãy cùng chúng tôi tìm hiểu về các cách chăm sóc giày da trong mùa mưa nhé.</p><h2><strong>Để khô giày tự nhiên</strong></h2><p>Đừng bao giờ quên để giày khô tự nhiên. Khi giày bị ướt và ẩm thì bạn hãy để chúng khô tự nhiên.<br>Đặc biệt không được sử dụng máy sấy tóc hoặc phơi dưới ánh nắng trực tiếp. Vì nhiệt độ cao có thể làm da giày của bạn bị nứt.<br>Sấy khô giày của bạn một cách tự nhiên dưới quạt nhẹ để có kết quả tốt nhất.</p><h2><strong>Bảo quản chúng ngay</strong></h2><p>Những đôi giày da khá đắt tiền mà không thể đi ra trong mùa mưa gió, cũng cần được chăm sóc.</p><p>Chúng nên được giữ ấm thoải mái để tránh hơi ẩm chìm vào và gây ra thiệt hại nặng nề. Nếu bạn không sử dụng một số đôi giày thường xuyên. Hãy nhớ nhét chúng vào giấy báo và cho chúng vào một túi vải nặng.</p><p>Hãy cực kỳ cẩn thận vì tủ gỗ của bạn cũng có thể hấp thụ độ ẩm trong mùa mưa này.</p><figure class=\"image\"><img src=\"http://xclean.vn/wp-content/uploads/2019/12/ch%C4%83m-s%C3%B3c-gi%C3%A0y-da-trong-m%C3%B9a-m%C6%B0a-2-1-1024x640.jpg\" alt=\"\" srcset=\"http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-2-1-1024x640.jpg 1024w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-2-1-300x188.jpg 300w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-2-1-768x480.jpg 768w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-2-1.jpg 1600w\" sizes=\"100vw\"></figure><h2><strong>Chống mốc</strong></h2><p>Tiếp theo trong quá trình chăm sóc giày da trong mùa mưa thì bạn cần làm là chống mốc. Khi giày bị mốc, ẩm thì là khá khó khăn, cơ hội tốt nhất để phục hồi chúng là cách chà chúng nhẹ nhàng bằng bàn chải đánh răng cũ. Bạn phải đảm bảo tất cả các chi tiết nhỏ, kẻ hở nhỏ nhất của giày.<br>Làm sạch chúng đúng cách và làm khô chúng một cách tự nhiên để tránh bị mốc các lần tiếp theo.</p><h2><strong>Đánh bóng giày</strong></h2><p>Đánh bóng giày của bạn không chỉ duy trì chất lượng mà còn bảo vệ nó khỏi độ ẩm. Ngoài ra, đôi giày của bạn tỏa sáng và rực rỡ làm tăng thêm vẻ tổng thể của bạn. Bạn có thể sử dụng dầu dưỡng da hoặc chất đánh bóng da đắt tiền để bổ sung dầu trong giày da. Tốt nhất, người ta nên lấy một lượng nhỏ dầu xả trên một miếng vải cotton mềm và chà nhẹ lên giày theo chuyển động tròn.</p><figure class=\"image\"><img src=\"http://xclean.vn/wp-content/uploads/2019/04/giat-giay-da-trang-6.jpg\" alt=\"làm sạch giày da trắng\" srcset=\"http://xclean.vn/wp-content/uploads/2019/04/giat-giay-da-trang-6.jpg 510w, http://xclean.vn/wp-content/uploads/2019/04/giat-giay-da-trang-6-255x300.jpg 255w\" sizes=\"100vw\"></figure><h2><strong>Không ẩm ướt! Không bùn!</strong></h2><p>Mùa mưa gió là thời điểm bạn thực sự cần chăm sóc đôi giày của mình và tránh xa mọi hình thức bùn ẩm. Đừng bao giờ để bùn dính vào giày dép của bạn sau khi đi bộ dưới mưa. Các khối bùn cứng hình thành trên giày sau khi sấy có thể làm giày bạn bị cũ và dơ. Đảm bảo rằng bạn lấy một bàn chải và đổ ra bất kỳ bùn trước khi nó khô.</p><p>Trên đây là một số cách chăm sóc giày da trên mùa mưa. Bạn có thể tìm hiểu và thực hiện tại nhà nhé.</p><p>Bên cạnh đó, bạn cũng có thể tìm hiểu các cách bảo quản, vệ sinh giày ngoài chăm sóc giày da mùa mưa ở trên là:</p><ul><li><a href=\"http://xclean.vn/lam-sach-giay-the-thao/\">5 Bước làm sạch giày thể thao tại nhà vô cùng đơn giản</a></li><li><a href=\"http://xclean.vn/ve-sinh-giay-sneaker\">Bí quyết vệ sinh giày Sneaker trông như mới</a></li><li><a href=\"http://xclean.vn/ve-sinh-tat-ca-cac-loai-giay\">Hướng dẫn cách vệ sinh tất cả các loại giày mà bạn nên biết</a></li></ul><p>Còn nếu bạn bận rộn mà không có thời gian cho việc vệ sinh giày này thì hãy liên hệ X-Clean để bảo quản, vệ sinh giày nhé. Đặc biệt X-Clean còn miễn phí vận chuyển 2 chiều nữa đó.</p>"
+    },
+    {
+      "id": "2byhb3xa8",
+      "title": "Bí quyết chăm sóc giày da",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2Fgi%C3%A0y-stan-smith.jpg?alt=media&token=313f4587-fd5d-4c09-98e8-7cb7d1e4109b",
+      "catepost": "301qx632a",
+      "newTime": "13:08:20",
+      "content": "<figure class=\"image\"><img src=\"http://xclean.vn/wp-content/uploads/2019/12/ch%C4%83m-s%C3%B3c-gi%C3%A0y-da-trong-m%C3%B9a-m%C6%B0a-1024x685.jpg\" alt=\"\" srcset=\"http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-1024x685.jpg 1024w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-300x201.jpg 300w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-768x514.jpg 768w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa.jpg 1045w\" sizes=\"100vw\" width=\"1024\"></figure><p>Mùa mưa dai dẳng kéo dài sẽ làm bạn chán nản không dám mang giày da bởi vì sợ dơ, ẩm mốc và bốc mùi. Đễ vẫn tự tin diện giày da trong mùa mưa cũng như bảo quản chúng để sử dụng lâu nhất. Hãy cùng chúng tôi tìm hiểu về các cách chăm sóc giày da trong mùa mưa nhé.</p><h2><strong>Để khô giày tự nhiên</strong></h2><p>Đừng bao giờ quên để giày khô tự nhiên. Khi giày bị ướt và ẩm thì bạn hãy để chúng khô tự nhiên.<br>Đặc biệt không được sử dụng máy sấy tóc hoặc phơi dưới ánh nắng trực tiếp. Vì nhiệt độ cao có thể làm da giày của bạn bị nứt.<br>Sấy khô giày của bạn một cách tự nhiên dưới quạt nhẹ để có kết quả tốt nhất.</p><h2><strong>Bảo quản chúng ngay</strong></h2><p>Những đôi giày da khá đắt tiền mà không thể đi ra trong mùa mưa gió, cũng cần được chăm sóc.</p><p>Chúng nên được giữ ấm thoải mái để tránh hơi ẩm chìm vào và gây ra thiệt hại nặng nề. Nếu bạn không sử dụng một số đôi giày thường xuyên. Hãy nhớ nhét chúng vào giấy báo và cho chúng vào một túi vải nặng.</p><p>Hãy cực kỳ cẩn thận vì tủ gỗ của bạn cũng có thể hấp thụ độ ẩm trong mùa mưa này.</p><figure class=\"image\"><img src=\"http://xclean.vn/wp-content/uploads/2019/12/ch%C4%83m-s%C3%B3c-gi%C3%A0y-da-trong-m%C3%B9a-m%C6%B0a-2-1-1024x640.jpg\" alt=\"\" srcset=\"http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-2-1-1024x640.jpg 1024w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-2-1-300x188.jpg 300w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-2-1-768x480.jpg 768w, http://xclean.vn/wp-content/uploads/2019/12/chăm-sóc-giày-da-trong-mùa-mưa-2-1.jpg 1600w\" sizes=\"100vw\"></figure><h2><strong>Chống mốc</strong></h2><p>Tiếp theo trong quá trình chăm sóc giày da trong mùa mưa thì bạn cần làm là chống mốc. Khi giày bị mốc, ẩm thì là khá khó khăn, cơ hội tốt nhất để phục hồi chúng là cách chà chúng nhẹ nhàng bằng bàn chải đánh răng cũ. Bạn phải đảm bảo tất cả các chi tiết nhỏ, kẻ hở nhỏ nhất của giày.<br>Làm sạch chúng đúng cách và làm khô chúng một cách tự nhiên để tránh bị mốc các lần tiếp theo.</p><h2><strong>Đánh bóng giày</strong></h2><p>Đánh bóng giày của bạn không chỉ duy trì chất lượng mà còn bảo vệ nó khỏi độ ẩm. Ngoài ra, đôi giày của bạn tỏa sáng và rực rỡ làm tăng thêm vẻ tổng thể của bạn. Bạn có thể sử dụng dầu dưỡng da hoặc chất đánh bóng da đắt tiền để bổ sung dầu trong giày da. Tốt nhất, người ta nên lấy một lượng nhỏ dầu xả trên một miếng vải cotton mềm và chà nhẹ lên giày theo chuyển động tròn.</p><figure class=\"image\"><img src=\"http://xclean.vn/wp-content/uploads/2019/04/giat-giay-da-trang-6.jpg\" alt=\"làm sạch giày da trắng\" srcset=\"http://xclean.vn/wp-content/uploads/2019/04/giat-giay-da-trang-6.jpg 510w, http://xclean.vn/wp-content/uploads/2019/04/giat-giay-da-trang-6-255x300.jpg 255w\" sizes=\"100vw\"></figure><h2><strong>Không ẩm ướt! Không bùn!</strong></h2><p>Mùa mưa gió là thời điểm bạn thực sự cần chăm sóc đôi giày của mình và tránh xa mọi hình thức bùn ẩm. Đừng bao giờ để bùn dính vào giày dép của bạn sau khi đi bộ dưới mưa. Các khối bùn cứng hình thành trên giày sau khi sấy có thể làm giày bạn bị cũ và dơ. Đảm bảo rằng bạn lấy một bàn chải và đổ ra bất kỳ bùn trước khi nó khô.</p><p>Trên đây là một số cách chăm sóc giày da trên mùa mưa. Bạn có thể tìm hiểu và thực hiện tại nhà nhé.</p><p>Bên cạnh đó, bạn cũng có thể tìm hiểu các cách bảo quản, vệ sinh giày ngoài chăm sóc giày da mùa mưa ở trên là:</p><ul><li><a href=\"http://xclean.vn/lam-sach-giay-the-thao/\">5 Bước làm sạch giày thể thao tại nhà vô cùng đơn giản</a></li><li><a href=\"http://xclean.vn/ve-sinh-giay-sneaker\">Bí quyết vệ sinh giày Sneaker trông như mới</a></li><li><a href=\"http://xclean.vn/ve-sinh-tat-ca-cac-loai-giay\">Hướng dẫn cách vệ sinh tất cả các loại giày mà bạn nên biết</a></li></ul><p>Còn nếu bạn bận rộn mà không có thời gian cho việc vệ sinh giày này thì hãy liên hệ X-Clean để bảo quản, vệ sinh giày nhé. Đặc biệt X-Clean còn miễn phí vận chuyển 2 chiều nữa đó.</p>"
+    }
+  ],
+  "cateposts": [
+    {
+      "id": "b2i5w9up3",
+      "name": "Sale tháng 8",
+      "content": "Giảm 20,30,40%"
+    },
+    {
+      "id": "301qx632a",
+      "name": "Tin hay nổi bật",
+      "content": "Tháng 8 rực rỡ"
+    },
+    {
+      "id": "4a908a1wz",
+      "name": "Lee Kha Nam",
+      "content": "aaaaaaaa"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "n40b0ox8q",
+      "name": "Nam",
+      "fullname": "Lê Khả",
+      "email": "namlk2803@gmail.com",
+      "tel": "0338554326",
+      "message": "Cảm ơn bạn rất nhiều"
+    },
+    {
+      "id": "xjjrlr8gm",
+      "name": "Lê",
+      "fullname": "Khả Nam",
+      "email": "leekhanam2xxx@gmail.com",
+      "tel": "0123456789",
+      "message": "Good"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "quantrivien@gmail.com",
+      "password": "123456",
+      "role": 0,
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/react-rjs.appspot.com/o/images%2Fgallery1.jpg?alt=media&token=ccc05c9e-bd5d-4c38-b476-3e2264e9cc3d"
+    },
+    {
+      "id": 2,
+      "username": "roniejisa",
+      "email": "nguoidung@gmail.com",
+      "password": "123456",
+      "role": 1,
+      "avatar": "https://firebasestorage.googleapis.com/v0/b/react-rjs.appspot.com/o/images%2Fpopular1.png?alt=media&token=1100a384-d192-497d-a41a-65aa00d05186"
+    }
+  ]
+}
